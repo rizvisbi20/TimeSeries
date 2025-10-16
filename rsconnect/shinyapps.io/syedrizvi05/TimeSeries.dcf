@@ -1,0 +1,13 @@
+name: TimeSeries
+title: TimeSeries
+username: syedrizvi05
+account: syedrizvi05
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15573605
+bundleId: 10956650
+url: https://syedrizvi05.shinyapps.io/TimeSeries/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01_Logo.R|TimeSeries/app.R
